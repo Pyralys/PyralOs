@@ -4,10 +4,10 @@
                  ↓
        ┌─────────┴─────────┐
        ↓                   ↓
- PyralOS Core          Hardware layer
+      PyralOS Core       Hardware layer
        ↓
-   App runtime
+      App runtime
        ↓
-  PyralOS Shell
+      PyralOS Shell
        ↓
-    Apps
+     Apps
