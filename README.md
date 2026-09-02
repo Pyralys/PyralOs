@@ -34,3 +34,8 @@ You are welcome to join even if you don't know how to code.
 
 
 P.S.: The project is currently named PyralOs, though the name may change later on.
+
+
+# 👀 You want know more ?
+Don't hesitate to come and take a look.
+https://discord.gg/amxc6XutV
