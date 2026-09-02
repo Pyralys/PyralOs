@@ -13,7 +13,7 @@ We're building a mobile OS from open-source components, with a modern interface 
 
 
 
-# Status: Pre-alpha / Research
+# Status: Brainstorming - Looking for foundings contributors. 
 
 
 
