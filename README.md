@@ -41,4 +41,4 @@ Don't hesitate to come and take a look.
 https://discord.gg/amxc6XutV
 
 We are also on Codeberg :
-||https://codeberg.org/PyralOS/PyralOs||
+https://codeberg.org/PyralOS/PyralOs
